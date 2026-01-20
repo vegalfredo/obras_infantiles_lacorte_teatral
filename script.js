@@ -58,7 +58,7 @@ const playsData = [
             actors: "3 actores",
             camerino: "Espejo y baño para 3 personas"
         },
-        images: ["conejo-1.jpg", "conejo-2.jpg", "conejo-3.jpg", "conejo-4.jpg", "conejo-5.jpg", "conejo-6.jpg"]
+        images: ["conejo-1.JPG", "conejo-2.JPG", "conejo-3.JPG", "conejo-4.JPG", "conejo-5.JPG", "conejo-6.JPG"]
     },
     {
         id: 5,
